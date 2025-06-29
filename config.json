@@ -1,0 +1,20 @@
+{
+  "models_dir": "./satellite_analysis/trained_models",
+  "known_sites_csv": "./georeferenced_archaeology/georeferenced_archaeological_sites.csv",
+  "known_features_csv": "./satellite_analysis/archaeological_features.csv",
+  "output_dir": "./satellite_analysis",
+  "georef_output_dir": "./georeferenced_archaeology",
+  "results_dir": "./ml_results",
+  "s2_dir": "./S2",
+  "site_data_dir": "./satellite_analysis/site_data",
+  "candidate_discovery_dir": "./satellite_analysis/candidate_discovery",
+  "feature_analysis_dir": "./satellite_analysis/feature_analysis",
+  "model_evaluation_dir": "./satellite_analysis/model_evaluation",
+  "visualizations_dir": "./satellite_analysis/visualizations",
+  "ml_results_dir": "./ml_results",
+  "masks_dir": "./maya_real_data/masks",
+  "dimension_matched_dir": "./maya_real_data/dimension_matched",
+  "real_data_dir": "./maya_real_data",
+  "georeferenced_sites_map": "./georeferenced_archaeology/georeferenced_sites_map.png",
+  "verification_links_csv": "./georeferenced_archaeology/verification_links.csv"
+}
